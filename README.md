@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mike 👋
 
-<!--
-**mikeandrei3/mikeandrei3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSIT Student** | 💻 **Aspiring Frontend Developer**
 
-Here are some ideas to get you started:
+I'm passionate about building clean, responsive, and user-friendly web interfaces.  
+Currently focused on growing my frontend development skills and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Languages:** HTML, CSS, Java  
+- **Frameworks:** Bootstrap  
+- **Tools:** VS Code  
+
+---
+
+## 🌱 Currently Learning
+- C Programming
+- Tailwind CSS
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/mike-andrei-gomez-784670385)
+
+---
